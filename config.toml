@@ -12,7 +12,7 @@ feed_filename = "atom.xml"
 [markdown]
 highlight_code = true
 
-taxonomies = [{ name = "post_type" }, { name = "text_type" }]
+taxonomies = [{ name = "tags" }, { name = "texts" }]
 
 [search]
 include_title = true
@@ -28,8 +28,8 @@ socials = [
     { name = "github", url = "https://github.com/ads40/", icon = "github" },
 ]
 menu = [
-    { name = "/posts", url = "/posts", weight = 1 },
-    { name = "/about", url = "/about", weight = 3 },
+    { name = "/posts", url = "/posts", weight = 2 },
+    { name = "/about", url = "/about", weight = 1 },
+    { name = "/biblio", url = "/biblio", weight = 3 },
     { name = "/glossary", url = "/glossary", weight = 4 },
 ]
-toc = true
