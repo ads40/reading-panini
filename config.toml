@@ -12,6 +12,8 @@ feed_filename = "atom.xml"
 [markdown]
 highlight_code = true
 
+taxonomies = [{ name = "post_type" }, { name = "text_type" }]
+
 [search]
 include_title = true
 include_description = true
@@ -28,6 +30,6 @@ socials = [
 menu = [
     { name = "/posts", url = "/posts", weight = 1 },
     { name = "/about", url = "/about", weight = 3 },
-    { name = "/tags", url = "/tags", weight = 4 },
+    { name = "/glossary", url = "/glossary", weight = 4 },
 ]
 toc = true
