@@ -13,8 +13,8 @@ Here I document the process of learning more about this tradition.
 To get started on this topic, one could do far worse than begin with Vikram
 Chandra's [eloquent piece about Pāṇini](https://blog.granthika.co/panini/): he
 writes as a knowledgeable non-specialist and in a readable and scholarly way
-that is acutely informed by [Chandra's "twin obsessions---writing and
-coding"](https://www.vikramchandra.com/).
+that is acutely informed by [Chandra's twin obsessions: writing and
+coding](https://www.vikramchandra.com/biography).
 
 ## Why Pāṇini?
 
@@ -43,14 +43,15 @@ grounded education.
 The degree to which the indigenous sources of knowledge have been treated as
 necessary but unfortunate is exemplified in the work of William Whitney, but can
 be illustrated in many places (For example, Whitney's "The Study of Hindu
-Grammar and the Study of Sanskrit", reproduced in [[Staal 1972]], pp. 142--154;
-see also [[Staal 1972]], pp. 70--101 for Ramkrishna Gopal Bhandarkar's earlier
-writings on the question of 'European' and 'Indian' perspectives.). Whitney
-emphatically rejects what he regards as the distortingly prescriptivist Indian
-tradition in the domain of linguistics and grammar ('the native grammarians',
-'the Hindu grammarians') in the midst of Whitney's own trenchant battles within
-the newly emerging domain of linguistic science (See [[Goldsmith and Laks
-2019]], pp. 100--107).
+Grammar and the Study of Sanskrit", reproduced in
+[Staal 1972](@/biblio/staal_1972.md), pp. 142-154; see also
+[Staal 1972](@/biblio/staal_1972.md), pp. 70-101 for Ramkrishna Gopal
+Bhandarkar's earlier writings on the question of 'European' and 'Indian'
+perspectives.). Whitney emphatically rejects what he regards as the distortingly
+prescriptivist Indian tradition in the domain of linguistics and grammar ('the
+native grammarians', 'the Hindu grammarians') in the midst of Whitney's own
+trenchant battles within the newly emerging domain of linguistic science (See
+[Goldsmith and Laks 2019](@/biblio/goldsmith_and_laks_2019.md), pp. 100-107).
 
 In the midst of all this is Pāṇini.
 
@@ -66,17 +67,16 @@ linguistics, including Bopp, de Saussure, Bloomfield and Jakobson.
 > linguistics of the nineteenth century, and this, indeed, owed its origin
 > largely to Europe's acquaintance with the Indian grammar."
 >
-> --- [[[Bloomfield 1929]]], p. 268 (see also [[Goldsmith and Laks 2019]], pp.
-> 336--337)
+> --- [Bloomfield 1929](@/biblio/bloomfield_1929.md), p. 268 (see also [Goldsmith and Laks 2019](@/biblio/goldsmith_and_laks_2019.md), pp.
+> 336-337)
 
 ## References
 
-References are collated under the tag `#biblio`, and each reference item has its
-own note. E.g. the details for Vikram Chandra's article above can be found here:
-[[[Chandra 2019]]].
+References have their own note that contains at least the
+publication details. E.g. the reference for Vikram Chandra's article above can
+be found here: [Chandra 2019](@/biblio/chandra_2019.md).
 
-A classified list of reference works can be found here: [[54514ec9]].
-
+All bibliographic references are collated under [/tags/bibliography](/tags/bibliography).
 
 # Colophon
 
@@ -84,7 +84,6 @@ For readability, Sanskrit quoted inline is represented in a romanised form.
 Devanāgarī is reserved for block quotation of texts.
 
 > <span class="devanagari">ॐ शन्तिः शन्तिः शन्तिः
-
 
 The site is constructed with [Zola](https://www.getzola.org/) as a
 static website hosted on [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-a-zola-site/#deploying-with-cloudflare-pages).

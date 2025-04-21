@@ -1,6 +1,6 @@
 
 base_url = "https://ads40.github.io/reading-panini/"
-title = "Reading Panini"
+title = "Reading Pāṇini"
 description = "Learning about Pãṇini's Aṣṭadhyãyĩ and the vyãkaraṇa tradition."
 theme = "apollo"
 taxonomies = [{ name = "tags" }]
@@ -25,11 +25,11 @@ index_format = "elasticlunr_json"
 theme = "auto"
 socials = [
     { name = "linkedin", url = "https://www.linkedin.com/in/ads40/", icon = "linkedin" },
-    { name = "github", url = "https://github.com/ads40/", icon = "github" },
+    { name = "github", url = "https://github.com/ads40/reading-panini", icon = "github" },
 ]
 menu = [
     { name = "/posts", url = "/posts", weight = 2 },
     { name = "/about", url = "/about", weight = 1 },
-    { name = "/biblio", url = "/biblio", weight = 3 },
+    { name = "/biblio", url = "/tags/bibliography", weight = 3 },
     { name = "/glossary", url = "/glossary", weight = 4 },
 ]
