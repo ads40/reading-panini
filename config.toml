@@ -1,7 +1,7 @@
 
 base_url = "https://ads40.github.io/reading-panini/"
 title = "Reading Panini"
-description = "Learning about Panini's Astadhyayi and the Vyakarana tradition."
+description = "Learning about Pãṇini's Aṣṭadhyãyĩ and the vyãkaraṇa tradition."
 theme = "apollo"
 taxonomies = [{ name = "tags" }]
 compile_sass = true
@@ -12,24 +12,22 @@ feed_filename = "atom.xml"
 [markdown]
 highlight_code = true
 
+[search]
+include_title = true
+include_description = true
+include_path = true
+include_content = true
+index_format = "elasticlunr_json"
+
 [extra]
 theme = "auto"
 socials = [
-    # Configure socials here
+    { name = "linkedin", url = "https://www.linkedin.com/in/ads40/", icon = "linkedin" },
+    { name = "github", url = "https://github.com/ads40/", icon = "github" },
 ]
 menu = [
-    # Configure menu bar here
+    { name = "/posts", url = "/posts", weight = 1 },
+    { name = "/about", url = "/about", weight = 3 },
+    { name = "/tags", url = "/tags", weight = 4 },
 ]
-
-# Whether to show links to earlier and later posts
-# on each post page (defaults to true).
-enable_post_view_navigation = true
-
-# The text shown at the bottom of a post,
-# before earlier/later post links.
-# Defaults to "Thanks for reading! Read other posts?"
-post_view_navigation_prompt = "Read more"
-
-# - "combined" -- combine like so: "page_title | main_title",
-#                 or if page_title is not defined or empty, fall back to `main_title`
-page_titles = "combined"
+toc = true
