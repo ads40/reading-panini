@@ -12,7 +12,7 @@ tags = ["glossary"]
 > *saṃjñā-saṃjñī-sambandhaḥ*. .... the *saṃjñā-saṃjñī-sambandha* is established
 > by *saṃjñā-sūtra*."
 >
-> -- [[[Michika 2017 Vol 1]]], p. 11
+> -- [Michika 2017 Vol 1](@biblio/michika_2017_vol_1.md), p. 11
 
 Abhyankar p. 375 glosses *saṃjñā* as "technical term" or "conventional term".
 These can be artifical (e.g. *it* "marker") or non-artificial (e.g. *sarvanāma*

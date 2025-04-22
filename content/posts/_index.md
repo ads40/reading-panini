@@ -8,5 +8,6 @@ description = ""
 draft = false
 
 template = "section.html"
+sort_by = "title"
 +++
 

@@ -18,7 +18,8 @@ This term refers to the various classificatory lists of morphemic elements used 
 
 ## Mnemonic sūtra
 
-Source? Given by [[Michika 2017 Vol 1]] p. 14.
+What is the source for this mnemonic? It is given without attribution by
+[Michika 2017 Vol 1](@biblio/michika_2017_vol_1.md) p. 14.
 
 > <span class="devanagari">प्रत्ययाः शिवसूत्राणी ह्यादेशा आगमास्तथा। \
 > <span class="devanagari">धातुपाठो गणे पाठ उपदेशाः प्रकीर्तिताः

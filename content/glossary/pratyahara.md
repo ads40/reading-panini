@@ -45,7 +45,7 @@ This term designates a key technique in Pāṇinian grammar, but the term itself
 
 ## List of pratyāhāras used by Pāṇini
 
-[[[Cardona 1997]]] pp. 80-81 (section 129) gives a list of the 41 *pratyāhāra*s
+[Cardona 1997](@biblio/cardona_1997.md) pp. 80-81 (section 129) gives a list of the 41 *pratyāhāra*s
 actually used by Pāṇini. Cardona gives traditional terms in brackets, where
 these exist:
 
@@ -137,5 +137,5 @@ these exist:
 >
 > śa**r**: voiceless spirants
 >
-> --- [[[Cardona 1997]]] pp. 80-81
+> --- [Cardona 1997](@biblio/cardona_1997.md) pp. 80-81
 >

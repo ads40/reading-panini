@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block main_content %}
+{% block title %}
+{{ post_macros::page_header(title=section.title) }}
+{% endblock title %}
+
+{% block post_list %}
+
+<div class="toplevel">
+    <h1>What is this project about?</h1>
+    {%- if paginator %}
+    {%- set show_pages = paginator.pages -%}
+    {% else %}
+    {%- set show_pages = section.pages -%}
+    {% endif -%}
+
+    {{ post_macros::list_posts(pages=show_pages) }}
+</div>
+{% endblock post_list %}
+
+{% block site_sections %}
+
+<div class="sections">
+    <h1>The main content series</h1>
+    {% set blog_posts = get_section(path="posts/_index.md") %}
+
+    {{ post_macros::list_posts(pages=blog_posts.pages) }}
+</div>
+{% endblock site_sections %}
+
+{% block copyright %}
+<div class="copyright">
+    <h1>Terms of use</h1>
+    {% if section.extra.website_date is defined %}
+    {% set website_date = section.extra.website_date %}
+    {% else %}
+    {% set website_date = "XXXX" %}
+    {% endif %}
+    <p>Copyright &copy; AD Stevens {{ website_date }}</p>
+    <p>Use of the materials on this website are subject to a <a
+            href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 licence</a>.</p>
+</div>
+{% endblock copyright %}
+
+{% endblock main_content %}
