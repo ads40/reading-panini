@@ -5,7 +5,7 @@ date = 2021-05-20
 tags=["bibliography"]
 +++
 
-# Reference
-
 Staal, J F, ed. 1972. *A Reader on the Sanskrit Grammarians*. Studies in
 Linguistics 1. Cambridge MA: MIT Press.
+
+<!-- more -->

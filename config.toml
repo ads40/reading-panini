@@ -30,6 +30,6 @@ socials = [
 menu = [
     { name = "/posts", url = "/posts", weight = 2 },
     { name = "/about", url = "/about", weight = 1 },
-    { name = "/biblio", url = "/tags/bibliography", weight = 3 },
+    { name = "/biblio", url = "/biblio", weight = 3 },
     { name = "/glossary", url = "/glossary", weight = 4 },
 ]
