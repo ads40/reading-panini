@@ -2,7 +2,7 @@
 title = "2. Prep work"
 date = 2020-10-10
 [taxonomies]
-tags = ["blog"]
+tags = ["post"]
 +++
 
 # Prep work

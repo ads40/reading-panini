@@ -2,7 +2,7 @@
 title = "3. The *it-sūtrāṇi* as a starting point"
 date = 2020-10-10
 [taxonomies]
-tags = ["blog"]
+tags = ["post"]
 +++
 
 # A starting point

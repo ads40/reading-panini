@@ -2,7 +2,7 @@
 title = "1. First steps"
 date = 2020-09-19
 [taxonomies]
-tags = ["blog"]
+tags = ["post"]
 +++
 
 # First steps

@@ -2,7 +2,7 @@
 title = "Laghusiddhāntakaumudī"
 date = 2020-09-21
 [taxonomies]
-tags = ["text"]
+tags = ["text", "post"]
 +++
 
 This text is an abridgement by Varadarāja of an earlier work, the *Siddhānta Kaumudī* of Bhaṭṭoji Dīkṣita.
