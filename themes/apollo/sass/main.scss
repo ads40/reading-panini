@@ -15,9 +15,13 @@
   --border-color: var(--border-color);
 
   /* Fonts */
-  --text-font: "Jetbrains Mono";
-  --header-font: "Space Grotesk", "Helvetica", sans-serif;
-  --code-font: "Jetbrains Mono";
+  --text-font: "Noto Sans", "Helvetica", sans-serif;
+  --header-font: "Noto Sans", "Helvetica", sans-serif;
+  --code-font: "Courier New", "Courier", monospace;
+}
+
+.devanagari {
+  font-size: x-large;
 }
 
 html {

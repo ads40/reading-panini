@@ -1,31 +1,47 @@
 @font-face {
-  font-family: "Jetbrains Mono";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
-  src: url("fonts/JetbrainsMono/JetBrainsMono-Regular.ttf"), local("ttf");
+  src: url("fonts/NotoSans-Regular.ttf"), local("ttf");
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Jetbrains Mono";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 700;
-  src: url("fonts/JetbrainsMono/JetBrainsMono-Bold.ttf"), local("ttf");
+  src: url("fonts/NotoSans-Bold.ttf"), local("ttf");
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Space Grotesk";
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("fonts/NotoSans-Italic.ttf"), local("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url("fonts/NotoSans-BoldItalic.ttf"), local("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Sans Devanagari";
   font-style: normal;
   font-weight: 400;
-  src: url("fonts/SpaceGrotesk/SpaceGrotesk-Regular.ttf"), local("ttf");
+  src: url("fonts/NotoSansDevanagari-Regular.ttf"), local("ttf");
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Space Grotesk";
+  font-family: "Noto Sans Devanagari";
   font-style: normal;
   font-weight: 700;
-  src: url("fonts/SpaceGrotesk/SpaceGrotesk-Bold.ttf"), local("ttf");
+  src: url("fonts/NotoSansDevanagari-SemiBold.ttf"), local("ttf");
   font-display: swap;
 }
