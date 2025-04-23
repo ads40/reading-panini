@@ -9,13 +9,12 @@
 
 <div class="toplevel">
     <h1>What is this project about?</h1>
-    {%- if paginator %}
-    {%- set show_pages = paginator.pages -%}
-    {% else %}
-    {%- set show_pages = section.pages -%}
-    {% endif -%}
+    <p>Any student of Sanskrit soon comes across the name of Pāṇini and concepts
+        drawn from the Indian grammatical tradition.</p>
 
-    {{ post_macros::list_posts(pages=show_pages) }}
+    <p>Here I document my process of learning more about this tradition.</p>
+
+    <p>Read more: <a href="/about.md">About this project</a>.</p>
 </div>
 {% endblock post_list %}
 

@@ -2,7 +2,7 @@
 title = "Laghusiddhāntakaumudī"
 date = 2020-09-21
 [taxonomies]
-tags = ["text", "post"]
+tags = ["text"]
 +++
 
 This text is an abridgement by Varadarāja of an earlier work, the *Siddhānta Kaumudī* of Bhaṭṭoji Dīkṣita.
@@ -19,4 +19,4 @@ Ballantyne made a translation into English of this text in the mid-nineteenth ce
 
 ## Links
 
-- [Aṣṭadhyāyī](@/posts/astadhyayi.md)
+- [Aṣṭadhyāyī](@/texts/astadhyayi.md)

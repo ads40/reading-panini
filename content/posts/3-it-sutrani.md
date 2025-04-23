@@ -31,7 +31,7 @@ There are lots of definitions to absorb here:
 *saṃjñī*
 : the entity referred to by a technical term -- see [[[933bf906]]]
 
-Note also the different kinds of *sūtra* used in distinct ways within the [Aṣṭadhyāyī](@/posts/astadhyayi.md).
+Note also the different kinds of *sūtra* used in distinct ways within the [Aṣṭadhyāyī](@/texts/astadhyayi.md).
 
 ## The *it-sūtrāṇi* (1.3.2--1.3.9)
 

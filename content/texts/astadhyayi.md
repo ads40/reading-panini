@@ -2,7 +2,7 @@
 title = "Aṣṭādhyāyī"
 date = 2020-09-19
 [taxonomies]
-tags = ["text", "post"]
+tags = ["text"]
 +++
 
 This text expresses the generative rules of Pāṇini's grammatical system in the

@@ -27,8 +27,9 @@ socials = [
     { name = "github", url = "https://github.com/ads40/reading-panini", icon = "github" },
 ]
 menu = [
-    { name = "/posts", url = "/posts", weight = 2 },
     { name = "/about", url = "/about", weight = 1 },
-    { name = "/biblio", url = "/biblio", weight = 3 },
-    { name = "/glossary", url = "/glossary", weight = 4 },
+    { name = "/posts", url = "/posts", weight = 2 },
+    { name = "/texts", url = "/texts", weight = 3 },
+    { name = "/biblio", url = "/biblio", weight = 4 },
+    { name = "/glossary", url = "/glossary", weight = 5 },
 ]
