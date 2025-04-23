@@ -1,5 +1,5 @@
 
-base_url = "https://ads40.github.io/reading-panini/"
+base_url = "https://reading-panini.pages.dev"
 title = "Reading Pāṇini"
 description = "Learning about Pãṇini's Aṣṭadhyãyĩ and the vyãkaraṇa tradition."
 theme = "apollo"
