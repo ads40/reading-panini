@@ -68,16 +68,17 @@ with the *anubandha* letter at the end of the sequence. For example, iK is the
 sequence i u ṛ ḷ (leaving aside the *anubandha* letters: these are markers, not
 sounds), and aC is the set of vowels (a i u ṛ ḷ e o ai au).
 
-[[Cardona 1997]] gives a list of the 41 *pratyāhāra*s that Pāṇini uses in the
-*Aṣṭādhyāyi*. See the note on [[[pratyahara]]] and the [[[adbf992e]]] for these
-combinations.
+[Cardona 1997](@/biblio/cardona_1997.md) gives a list of the 41 *pratyāhāra*s
+that Pāṇini uses in the *Aṣṭādhyāyi*. See the notes on
+[pratyãhāra](@/glossary/pratyahara.md) and the
+[Aṣṭādhyāyī](@/texts/astadhyayi.md) for these combinations.
 
 Note that for the consonants, the inherent vowel -a- is included in the sūtras
 so that the consonants can be more readily pronounced, but it is only the
 consonant itself that is relevant for the abstraction.
 
 Note also that for the series of stops produced at the same point of
-articulation, Pāṇini uses the *anubandha* **U** which does not appear in the
+articulation Pāṇini uses the *anubandha* *U* which does not appear in the
 *pratyāhārasūtrāṇi*. Accordingly, the velar series *k kh g gh* is referred to as
 *kU*, and the palatal series *c ch j jh* as *cU*, and so on.
 
